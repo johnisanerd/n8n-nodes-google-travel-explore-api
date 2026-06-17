@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-google-travel-explore-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/google-travel-explore-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"google travel explore",
+		"travel explore",
+		"destinations",
+		"flight deals",
+		"trip ideas",
+		"travel deals",
+		"cheap flights",
+		"travel",
+		"vacation ideas",
+		"apify"
+	]
+}
