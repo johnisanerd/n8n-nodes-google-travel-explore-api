@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-google-travel-explore-api",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Discover destinations from a departure airport with flight prices, hotel prices, and trip dates. Apify-backed n8n community node, pay-per-result, and usable as an AI agent tool.",
 	"keywords": [
 		"n8n-community-node-package",
